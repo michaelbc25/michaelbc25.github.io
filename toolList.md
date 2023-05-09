@@ -11,3 +11,7 @@ Welcome to Bob the Builder's Toolbox, where we have all the machines you need to
  + Roley - A road roller is a heavy machine used for compacting soil, asphalt, or other materials to create a smooth, level surface. Commonly used in road construction to compress layers of material to reduce air voids and increase durability..
  + Dizzy - A concrete mixer is a machine that is used for mixing and preparing concrete. It is useful for creating a variety of structures such as walls, floors, and foundations.
  + Muck - A dump truck is a large truck with a tipping bed that is used for transporting large amounts of materials such as soil, gravel, and debris. It is useful for transporting materials to and from construction sites.
+
+At Bob the Builder Construction, we have all the tools necessary to get the job done right.
+
+> ***"Can we fix it, Yes we can!"***
